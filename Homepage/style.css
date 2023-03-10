@@ -174,3 +174,27 @@ footer {
     margin-top: 30px;
   }
 }
+/* favicon */
+.fa {
+  width: 50px;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover{
+  background-color: #000;
+}
+.fa-facebook {
+  background: #07308a;
+  color: #ffffff;
+}
+.fa-twitter {
+  margin: auto;
+  background: #55ACEE;
+  color: #ffffff;
+}
+.fa-linkedin {
+  background-color: blue;
+  color: #ffff;
+}
